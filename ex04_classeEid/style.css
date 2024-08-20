@@ -1,0 +1,27 @@
+/* Adicionando CSS */
+/* Com seletor tag */
+h1{
+    color: deeppink;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+font-weight: bold;
+font-size: 20px;
+}
+
+/* Adiconando CSS */
+/* Com seletor 'id' */
+/* id não pode ser compartilhado */
+#prgf2{
+    color:mediumvioletred;
+    font-size: 17px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Adiconando CSS */
+/* Com seletor 'class' */
+.p-texto{
+    color:palevioletred;
+}
