@@ -9,4 +9,6 @@
 * Box, Model e bordas;
 * Position Static;
 * Positon Relatv;
-* Position Absolute.
+* Position Absolute;
+* Position Fixed;
+* Position Stick.
