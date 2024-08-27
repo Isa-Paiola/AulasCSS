@@ -1,0 +1,12 @@
+.posicao{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border-bottom: 5px dashed plum;
+}
+
+.static{
+    border-right: 5px solid plum;
+    position: static;
+    top: 200px;
+}
