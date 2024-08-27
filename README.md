@@ -7,4 +7,6 @@
 * Animação;
 * Animação Times;
 * Box, Model e bordas;
-* Position Static.
+* Position Static;
+* Positon Relatv;
+* Position Absolute.
