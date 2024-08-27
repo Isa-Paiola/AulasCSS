@@ -3,4 +3,6 @@
 * Adicionar CSS Inline;
 * Adicionar CSS interno;
 * Classe e Id;
-* Modo cores.
+* Modo cores;
+* Animação;
+* Animação Times.
