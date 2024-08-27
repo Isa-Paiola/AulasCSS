@@ -5,4 +5,6 @@
 * Classe e Id;
 * Modo cores;
 * Animação;
-* Animação Times.
+* Animação Times;
+* Box, Model e bordas;
+* Position Static.
